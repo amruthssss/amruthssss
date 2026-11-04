@@ -1,228 +1,278 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Amruth%20S%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Python%20Developer&descSize=20&descAlignY=60&descColor=00e5ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:2D1B69,100:0E7490&height=280&section=header&text=Amruth%20S%20Sharma&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Generative%20AI&descSize=20&descAlign=50&descAlignY=64&stroke=22D3EE&strokeWidth=1" width="100%" alt="Amruth S Sharma"/>
 
 <a href="https://amruthssharmaportfolio.netlify.app/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=760&height=60&lines=%F0%9F%A7%A0+Building+RAG+%26+Multi-Agent+AI+Systems;%F0%9F%93%88+Forecasting+%7C+Machine+Learning+%7C+Computer+Vision;%E2%9A%99%EF%B8%8F+FastAPI+%7C+LangGraph+%7C+React+%7C+PostgreSQL;%F0%9F%9A%80+Turning+ideas+into+production-ready+AI" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=Building+RAG+%26+multi-agent+AI+systems;Forecasting+%C2%B7+Computer+Vision+%C2%B7+NLP;FastAPI+%C2%B7+LangGraph+%C2%B7+React+%C2%B7+PostgreSQL;Turning+ideas+into+production-ready+AI" alt="typing"/>
 </a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00E5FF?style=for-the-badge&logoColor=black)](https://amruthssharmaportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amruthssss)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruths604@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amruthssss)
-![Profile Views](https://komarev.com/ghpvc/?username=amruthssss&label=Views&color=7B2FF7&style=for-the-badge)
+<a href="https://amruthssharmaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0E7490?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amruthssss"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amruths604@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/amruthssss"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=amruthssss&label=Profile%20views&color=2D1B69&style=flat-square"/>
+
+<br/><br/>
+
+<sub>📍 Bengaluru, India &nbsp;·&nbsp; 🎓 B.E. CSE, Sai Vidya Institute of Technology &nbsp;·&nbsp; CGPA 8.2</sub>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
 
-## ⚡ About Me
+<h2 align="center">✨ About Me</h2>
 
+<div align="center">
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="middle">
 
 ```python
 class Amruth:
-    role     = "AI/ML Engineer"
-    based_in = "Bengaluru, India 🇮🇳"
-    degree   = "B.E. CSE · SVIT · CGPA 8.2"
-    focus    = ["Generative AI", "RAG", "AI Agents",
-                "Forecasting", "Computer Vision"]
-    stack    = ["Python", "FastAPI", "LangGraph",
-                "PyTorch", "React", "PostgreSQL"]
-    motto    = "Learn. Build. Improve. Repeat."
+    role   = "AI / ML Engineer"
+    focus  = ["Generative AI", "RAG", "AI Agents",
+              "Forecasting", "Computer Vision"]
+    stack  = ["Python", "FastAPI", "LangGraph",
+              "PyTorch", "React", "PostgreSQL"]
+    motto  = "Learn. Build. Improve. Repeat."
 
     def now(self):
         return "Building agentic AI systems 🤖"
 ```
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="middle">
 
-🎓 **B.E. Computer Science** — Sai Vidya Institute of Technology (2022–2026)
+I'm a Computer Science graduate who enjoys building **intelligent systems that actually work** — from retrieval-augmented assistants and multi-agent workflows to forecasting platforms and real-time vision pipelines.
 
-💼 Ex **Android Developer Intern** @ MindMatrix.io
-
-🤖 Projects in **RAG, multi-agent systems, predictive analytics & vision**
-
-🌱 Exploring **Agentic RAG, LLM evaluation & production AI**
+I care about **grounded, testable AI**: validated evidence, critic loops, measurable metrics.
 
 </td>
 </tr>
 </table>
-
----
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,c,ts,js,fastapi,flask,nodejs,react,nextjs&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,firebase,vercel,androidstudio&theme=dark" /><br/><br/>
-
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
-![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
 
-## 🧬 How I Build AI Systems
+<h2 align="center">🧰 Tech Stack</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="right" width="22%"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,c,ts,js&theme=dark"/> &nbsp;<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></td>
+</tr>
+<tr>
+<td align="right"><b>AI / ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas,numpy&theme=dark"/></td>
+</tr>
+<tr>
+<td align="right"><b>Generative AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Backend & Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,nextjs&theme=dark"/></td>
+</tr>
+<tr>
+<td align="right"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark"/></td>
+</tr>
+<tr>
+<td align="right"><b>Tools & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,gcp,firebase,vercel,androidstudio&theme=dark"/></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<div align="center"><sub>RAG · Agentic / Hybrid RAG · Embeddings · Vector Search · Reranking · Prompt Engineering · Time-Series Forecasting · XGBoost · Prophet · LSTM · CI/CD · REST APIs · n8n · Streamlit</sub></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
+
+<h2 align="center">🧬 How I Build AI Systems</h2>
 
 ```mermaid
 flowchart LR
-    A[📄 Data & Documents] --> B[🔢 Embeddings + Vector Search]
-    B --> C[🎯 Reranking]
-    C --> D[🧠 LLM Agents - LangGraph]
-    D --> E{✅ Grounding & Critic Check}
-    E -- pass --> F[📊 Cited Answer / Forecast]
+    A["📄 Data &<br/>Documents"] --> B["🔢 Embeddings<br/>& Vector Search"]
+    B --> C["🎯 Reranking"]
+    C --> D["🧠 LangGraph<br/>Agents"]
+    D --> E{"✅ Critic /<br/>Grounding"}
     E -- retry --> D
-    F --> G[🚀 FastAPI + React Deployment]
+    E -- pass --> F["📊 Cited Answer<br/>or Forecast"]
+    F --> G["🚀 FastAPI + React<br/>Deployment"]
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
 
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
+<div align="center">
 <table>
-<tr><td>
+<tr>
+<td width="24%" align="center" valign="top">
+<b>Android Developer Intern</b><br/>
+MindMatrix.io<br/>
+<sub>Bengaluru</sub><br/><br/>
+<code>Feb 2026 – May 2026</code>
+</td>
+<td width="76%" valign="top">
 
-### 📱 Android Developer Intern — MindMatrix.io, Bengaluru
-`Feb 2026 – May 2026`
+- Built **Akshara-Deepa**, a full-stack Android SSLC learning app with Capacitor.js, Firebase & Google Sign-In
+- Integrated **Gemini 1.5 Flash** for adaptive quizzes, automated answer evaluation, a study planner and an AI tutor
+- Designed **Strength Map** radar charts (mastery, accuracy, streaks) with real-time Firestore sync
+- Owned UI/UX, testing, debugging and Gradle release builds — **100% crash-free launch** on Google Play internal testing
 
-- Built **Akshara-Deepa**, a full-stack Android SSLC learning app (Capacitor.js, Firebase, Google Sign-In)
-- Integrated **Gemini 1.5 Flash** for adaptive quizzes, auto answer evaluation, study planner & AI tutor
-- Created **Strength Map** radar charts with real-time Firestore sync
-- Owned UI/UX, testing & Gradle release builds → **100% crash-free launch** on Google Play internal test track
-
-</td></tr>
+</td>
+</tr>
 </table>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ [Orbit AI Platform](https://github.com/amruthssss/Orbit_AI)
+Full-stack AI platform with Gemini chat, **RAG**, agents, tool calling and LLM evaluation. Embeddings → vector retrieval → **reranking** for cited answers, plus Tavily web research.
+
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [StockWise — Stock_AI](https://github.com/amruthssss/Stock_AI)
+Retail inventory intelligence: forecasting, stockout / overstock / expiry risk and a **4-agent LangGraph** workflow with local Ollama/Qwen. Deterministic analytics stay authoritative; the LLM only explains validated evidence.
+
+![](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Ollama-111111?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [LaunchPad AI](https://github.com/amruthssss/LaunchPad-AI)
+Multi-agent platform for startup market research, architecture and revenue forecasts. A self-correcting **Critic Agent** (0.0–1.0 scoring) routes retries; grounded with RAG. Real-time results over WebSockets.
+
+![](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square) ![](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) ![](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white) ![](https://img.shields.io/badge/Prophet-0668E1?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 [Multimodal Surveillance](https://github.com/amruthssss/multimodal-Surveillance)
+Real-time detection of fire, smoke, accidents, explosions and gunshots from video + audio, fully local. Temporal confirmation, dedup, email/SMS alerts, adaptive thresholds and a **90%+ precision gate**.
+
+![](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [arXiv Research Copilot](https://github.com/amruthssss/Autonomous_arXiv_Assessment)
+Research assistant for arXiv discovery, PDF processing and grounded Q&A. Stateful LangGraph workflow → chunking → local embeddings → Gemini answers with source metadata.
+
+![](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square) ![](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [EV Charging Analytics](https://github.com/amruthssss/ev_charging_analysis)
+Demand forecasting and clustering across **457 stations**. K-Means + PCA reveal **4 behavioral personas**; Prophet, Gradient Boosting and Random Forest drive predictions; Plotly dashboards on Streamlit.
+
+![](https://img.shields.io/badge/Prophet-0668E1?style=flat-square) ![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎙️ [Spoken Keyword Spotting](https://github.com/amruthssss/keySpotting/tree/master/Spoken-Keyword-Spotting)
+CNN-SVM audio classifier with MFCC features for edge devices (10 keyword classes). **INT8 quantization → 75% smaller model, 40% lower latency, 0.98 F1.**  
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/Librosa-111111?style=flat-square) ![](https://img.shields.io/badge/SVM-7C3AED?style=flat-square)
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
+
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
 
-<a href="https://github.com/amruthssss/Orbit_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amruthssss&repo=Orbit_AI&theme=radical&hide_border=true" width="48%"/></a>
-<a href="https://github.com/amruthssss/Stock_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amruthssss&repo=Stock_AI&theme=radical&hide_border=true" width="48%"/></a>
-<a href="https://github.com/amruthssss/LaunchPad-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amruthssss&repo=LaunchPad-AI&theme=radical&hide_border=true" width="48%"/></a>
-<a href="https://github.com/amruthssss/multimodal-Surveillance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amruthssss&repo=multimodal-Surveillance&theme=radical&hide_border=true" width="48%"/></a>
-<a href="https://github.com/amruthssss/Autonomous_arXiv_Assessment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amruthssss&repo=Autonomous_arXiv_Assessment&theme=radical&hide_border=true" width="48%"/></a>
-<a href="https://github.com/amruthssss/ev_charging_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amruthssss&repo=ev_charging_analysis&theme=radical&hide_border=true" width="48%"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=amruthssss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthssss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=amruthssss&theme=tokyonight&hide_border=true&background=0D1117" width="92%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthssss&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&custom_title=Contribution%20Graph" width="92%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/amruthssss/amruthssss/output/github-snake-dark.svg" width="92%" alt="contribution snake"/>
 
 </div>
 
-<details open>
-<summary><b>🛰️ Orbit AI Engineering Platform</b> — RAG · AI Agents · Tool Calling · LLM Evaluation</summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
 
-- Full-stack Python AI platform: Gemini chat, RAG, agents, tool calling, LLM evaluation
-- Ingestion pipeline with Gemini embeddings, vector retrieval & **reranking** for cited answers, plus Tavily web research
-- FastAPI + React + PostgreSQL + Redis, deployed on Vercel & Render
-
-</details>
-
-<details>
-<summary><b>📦 StockWise (Stock_AI)</b> — Inventory Intelligence · 4-Agent LangGraph · Local LLM</summary>
-
-- Forecasting (LightGBM, XGBoost), stockout / overstock / expiry risk & policy scenarios
-- Supervisor + Forecast, Inventory Risk, Decision & BI agents orchestrated with **LangGraph**
-- Local **Ollama/Qwen** explanations validated with Pydantic; deterministic analytics stay authoritative
-- FastAPI, PostgreSQL + Alembic, Next.js dashboards, Docker Compose
-
-</details>
-
-<details>
-<summary><b>🚀 LaunchPad AI</b> — Multi-Agent Startup Research & Forecasting</summary>
-
-- LangGraph + LangChain agents with a self-correcting **Critic Agent** (0.0–1.0 scoring) and retry routing
-- RAG with ChromaDB, OpenAI embeddings & GPT-4; revenue forecasts via Prophet, XGBoost & LSTM
-- React + FastAPI WebSockets for real-time results
-
-</details>
-
-<details>
-<summary><b>🎥 Multimodal Surveillance System</b> — Real-time Fire · Smoke · Accident · Gunshot Detection</summary>
-
-- YOLO26 Nano, CNN-LSTM, YOLO checkpoints & **YAMNet (ONNX)** audio on webcam / RTSP / IP streams, fully local
-- 2-of-3 temporal confirmation, 2-min dedup, severity escalation; email (JPEG) + critical-only Twilio SMS
-- Operator feedback with adaptive thresholds, live precision/recall/F1 and a **90%+ precision gate**
-- Flask + Node.js + React dashboard, MongoDB logging
-
-</details>
-
-<details>
-<summary><b>📚 arXiv Research Copilot</b> · <b>⚡ EV Charging Analytics</b> · <b>🎙️ Keyword Spotting</b></summary>
-
-- **arXiv Copilot:** stateful LangGraph workflow → PDF extraction, chunking, local embeddings (ChromaDB) → grounded Gemini answers with sources
-- **EV Analytics:** forecasting & clustering across **457 stations**; K-Means + PCA → 4 behavioral personas; Plotly + Streamlit
-- **Keyword Spotting:** CNN-SVM + MFCC; INT8 quantization → **-75% size, -40% latency, 0.98 F1** ([repo](https://github.com/amruthssss/keySpotting/tree/master/Spoken-Keyword-Spotting))
-
-</details>
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">🎓 Education & Certifications</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amruthssss&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthssss&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" />
-
-<img src="https://streak-stats.demolab.com?user=amruthssss&theme=radical&hide_border=true" width="95%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=amruthssss&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amruthssss&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
-
+<table>
+<tr>
+<td colspan="3" align="center">
+<b>B.E. Computer Science & Engineering</b> — Sai Vidya Institute of Technology, Bengaluru<br/>
+<sub>2022 – 2026 &nbsp;·&nbsp; CGPA 8.2 / 10 &nbsp;·&nbsp; DBMS · OOP · Machine Learning · AI · Data Analytics</sub>
+</td>
+</tr>
+<tr>
+<td width="34%" align="center" valign="top">🤖<br/><b>Google AI Professional Certificate</b><br/><sub>Google / Coursera · 2026</sub></td>
+<td width="33%" align="center" valign="top">📊<br/><b>Data Analytics with Python</b><br/><sub>NPTEL, IIT Roorkee · 2026</sub></td>
+<td width="33%" align="center" valign="top">🧠<br/><b>AI Fundamentals</b><br/><sub>IBM SkillsBuild · 2025</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top">☁️<br/><b>Networking & Cloud Computing</b><br/><sub>Microsoft / Coursera · 2025</sub></td>
+<td align="center" valign="top">🐍<br/><b>Python Data Analysis</b><br/><sub>Rice University / Coursera · 2025</sub></td>
+<td align="center" valign="top">🔗<br/><b>More credentials</b><br/><sub><a href="https://linkedin.com/in/amruthssss">View on LinkedIn</a></sub></td>
+</tr>
+</table>
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/amruthssss/amruthssss/output/github-snake-dark.svg" alt="snake" width="95%" />
-</div>
-
----
-
-## 🏆 Certifications
-
-| | Certificate | Issuer | Year |
-|---|---|---|---|
-| 🤖 | **Google AI Professional Certificate** | Google / Coursera | 2026 |
-| 📊 | **Data Analytics with Python** | NPTEL, IIT Roorkee | 2026 |
-| 🧠 | **Artificial Intelligence Fundamentals** | IBM SkillsBuild | 2025 |
-| ☁️ | **Networking and Cloud Computing** | Microsoft / Coursera | 2025 |
-| 🐍 | **Python Data Analysis** | Rice University / Coursera | 2025 |
-
-👉 Verify all credentials on my [LinkedIn](https://linkedin.com/in/amruthssss)
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-### 🤝 Let's build something intelligent together
+<h2>🤝 Let's Build Something Intelligent</h2>
 
-[![Email](https://img.shields.io/badge/amruths604@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruths604@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amruthssss)
+<a href="mailto:amruths604@gmail.com"><img src="https://img.shields.io/badge/amruths604@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amruthssss"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://amruthssharmaportfolio.netlify.app/"><img src="https://img.shields.io/badge/View_Portfolio-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-**💻 Code • Build • Learn • Repeat 🚀**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=520&height=30&lines=Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat" alt="footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,55:2D1B69,100:0D1117&height=130&section=footer" width="100%" alt="footer wave"/>
 
 </div>
