@@ -6,88 +6,87 @@
 
 Computer Science graduate based in Bengaluru, building practical AI/ML systems across Generative AI, forecasting, computer vision, and edge audio.
 
+<p><img src="assets/accent.svg" width="100%" height="8" alt="" /></p>
+
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr><td width="100%" valign="top">
-    <h3>01 · Orbit AI Platform</h3>
-    <p>A full-stack Gemini platform for grounded answers and AI-assisted workflows.</p>
-    <ul>
-      <li>Combines Gemini chat, RAG, AI agents, tool calling, and LLM evaluation.</li>
-      <li>Retrieves and reranks document passages to produce cited responses.</li>
-      <li>Adds Tavily web research and deploys FastAPI + React services.</li>
-    </ul>
-    <p><strong>Stack:</strong> Python · FastAPI · React · TypeScript · PostgreSQL · Redis · Gemini · RAG · Tavily</p>
-    <a href="https://github.com/amruthssss/Orbit_AI">View on GitHub ↗</a>
-  </td></tr>
-</table>
+### 01 · Orbit AI Platform
 
-<table>
-  <tr><td width="100%" valign="top">
-    <h3>02 · StockWise (Stock_AI)</h3>
-    <p>Retail forecasting and inventory intelligence with evidence-led AI explanations.</p>
-    <ul>
-      <li>Combines forecasting, inventory-risk analysis, and scenario optimization.</li>
-      <li>LangGraph agents explain validated evidence while deterministic values remain authoritative.</li>
-      <li>Connects Next.js dashboards to FastAPI, PostgreSQL, and optional local Ollama/Qwen.</li>
-    </ul>
-    <p><strong>Stack:</strong> FastAPI · Next.js · PostgreSQL · LangGraph · Ollama/Qwen · Docker</p>
-    <a href="https://github.com/amruthssss/Stock_AI">View on GitHub ↗</a>
-  </td></tr>
-</table>
+A full-stack Gemini platform for grounded answers and AI-assisted workflows.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · LaunchPad AI</h3>
-      <p>Multi-agent startup research, software architecture, and revenue forecasting.</p>
-      <ul>
-        <li>Uses a self-correcting Critic Agent with 0.0–1.0 scoring and retry routing.</li>
-        <li>Grounds agent work with RAG, ChromaDB, OpenAI embeddings, and GPT-4.</li>
-        <li>Streams Prophet, XGBoost, and LSTM forecasts through FastAPI WebSockets.</li>
-      </ul>
-      <p><strong>Stack:</strong> Python · LangGraph · LangChain · FastAPI · React · ChromaDB · GPT-4 · Prophet · XGBoost · LSTM</p>
-      <a href="https://github.com/amruthssss/LaunchPad-AI">View on GitHub ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · Multimodal Surveillance</h3>
-      <p>Local visual and audio event detection for security monitoring and alerts.</p>
-      <ul>
-        <li>Detects fire, smoke, accidents, explosions, and gunshots from streams.</li>
-        <li>Uses 2-of-3 temporal confirmation and 2-minute deduplication.</li>
-        <li>Requires 20+ samples and a 90%+ precision gate before external alerts.</li>
-      </ul>
-      <p><strong>Stack:</strong> Python · YOLO26 · YAMNet · CNN-LSTM · PyTorch · OpenCV · React · MongoDB</p>
-      <a href="https://github.com/amruthssss/multimodal-Surveillance">View on GitHub ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>05 · arXiv Research Copilot</h3>
-      <p>Research assistant for arXiv discovery, PDF processing, and grounded question answering.</p>
-      <ul>
-        <li>Uses a stateful LangGraph workflow for query understanding and paper selection.</li>
-        <li>Extracts and chunks PDFs, then stores local embeddings in ChromaDB.</li>
-        <li>Generates Gemini answers with source metadata and semantic search.</li>
-      </ul>
-      <p><strong>Stack:</strong> Python · LangGraph · Gemini · ChromaDB · RAG · Embeddings · Vector Search</p>
-      <a href="https://github.com/amruthssss/Autonomous_arXiv_Assessment">View on GitHub ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>06 · EV Charging Analytics</h3>
-      <p>Demand forecasting and station segmentation for EV charging analytics.</p>
-      <ul>
-        <li>Forecasts and clusters data across 457 charging stations.</li>
-        <li>Uses Prophet, Histogram Gradient Boosting, and Random Forest for demand.</li>
-        <li>Applies K-Means and PCA to identify 4 station personas.</li>
-      </ul>
-      <p><strong>Stack:</strong> Python · Streamlit · Prophet · Scikit-learn · K-Means · PCA · Plotly</p>
-      <a href="https://github.com/amruthssss/ev_charging_analysis">View on GitHub ↗</a>
-    </td>
-  </tr>
-</table>
+- Combines Gemini chat, RAG, AI agents, tool calling, and LLM evaluation.
+- Retrieves and reranks document passages to produce cited responses.
+- Adds Tavily web research and deploys FastAPI + React services.
+
+**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · Redis · Gemini · RAG · Tavily<br/>
+[View on GitHub ↗](https://github.com/amruthssss/Orbit_AI)
+
+---
+
+### 02 · StockWise (Stock_AI)
+
+Retail forecasting and inventory intelligence with evidence-led AI explanations.
+
+- Combines forecasting, inventory-risk analysis, and scenario optimization.
+- LangGraph agents explain validated evidence while deterministic values remain authoritative.
+- Connects Next.js dashboards to FastAPI, PostgreSQL, and optional local Ollama/Qwen.
+
+**Stack:** FastAPI · Next.js · PostgreSQL · LangGraph · Ollama/Qwen · Docker<br/>
+[View on GitHub ↗](https://github.com/amruthssss/Stock_AI)
+
+---
+
+### 03 · LaunchPad AI
+
+Multi-agent startup research, software architecture, and revenue forecasting.
+
+- Uses a self-correcting Critic Agent with 0.0–1.0 scoring and retry routing.
+- Grounds agent work with RAG, ChromaDB, OpenAI embeddings, and GPT-4.
+- Streams Prophet, XGBoost, and LSTM forecasts through FastAPI WebSockets.
+
+**Stack:** Python · LangGraph · LangChain · FastAPI · React · ChromaDB · GPT-4 · Prophet · XGBoost · LSTM<br/>
+[View on GitHub ↗](https://github.com/amruthssss/LaunchPad-AI)
+
+---
+
+### 04 · Multimodal Surveillance
+
+Local visual and audio event detection for security monitoring and alerts.
+
+- Detects fire, smoke, accidents, explosions, and gunshots from streams.
+- Uses 2-of-3 temporal confirmation and 2-minute deduplication.
+- Requires 20+ samples and a 90%+ precision gate before external alerts.
+
+**Stack:** Python · YOLO26 · YAMNet · CNN-LSTM · PyTorch · OpenCV · React · MongoDB<br/>
+[View on GitHub ↗](https://github.com/amruthssss/multimodal-Surveillance)
+
+---
+
+### 05 · arXiv Research Copilot
+
+Research assistant for arXiv discovery, PDF processing, and grounded question answering.
+
+- Uses a stateful LangGraph workflow for query understanding and paper selection.
+- Extracts and chunks PDFs, then stores local embeddings in ChromaDB.
+- Generates Gemini answers with source metadata and semantic search.
+
+**Stack:** Python · LangGraph · Gemini · ChromaDB · RAG · Embeddings · Vector Search<br/>
+[View on GitHub ↗](https://github.com/amruthssss/Autonomous_arXiv_Assessment)
+
+---
+
+### 06 · EV Charging Analytics
+
+Demand forecasting and station segmentation for EV charging analytics.
+
+- Forecasts and clusters data across 457 charging stations.
+- Uses Prophet, Histogram Gradient Boosting, and Random Forest for demand.
+- Applies K-Means and PCA to identify 4 station personas.
+
+**Stack:** Python · Streamlit · Prophet · Scikit-learn · K-Means · PCA · Plotly<br/>
+[View on GitHub ↗](https://github.com/amruthssss/ev_charging_analysis)
 
 **More projects:** [Spoken Keyword Spotting](https://github.com/amruthssss/keySpotting/tree/master/Spoken-Keyword-Spotting) — CNN-SVM audio classification across 10 keyword classes; INT8 quantization reduced model size by 75% and latency by 40%, with a 0.98 F1-score.
 
