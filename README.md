@@ -7,6 +7,8 @@
   <a href="https://github.com/amruthssss">GitHub</a>
 </p>
 
+<p><img src="assets/focus.svg" width="100%" height="42" alt="Generative AI · RAG · Multi-agent systems · Forecasting · Computer vision" /></p>
+
 Computer Science graduate based in Bengaluru, building practical AI/ML systems across Generative AI, forecasting, computer vision, and edge audio.
 
 ---
@@ -15,7 +17,7 @@ Computer Science graduate based in Bengaluru, building practical AI/ML systems a
 
 ### 🧠 01 · Orbit AI Platform
 
-<img align="right" width="100" height="80" src="assets/projects/orbit.svg" alt="Animated document retrieval illustration" />
+<img align="right" width="136" height="108" src="assets/projects/orbit.svg" alt="Animated document retrieval illustration" />
 
 A full-stack Gemini platform for grounded answers and AI-assisted workflows.
 
@@ -30,7 +32,7 @@ A full-stack Gemini platform for grounded answers and AI-assisted workflows.
 
 ### 📦 02 · StockWise (Stock_AI)
 
-<img align="right" width="100" height="80" src="assets/projects/stockwise.svg" alt="Animated inventory and forecasting illustration" />
+<img align="right" width="136" height="108" src="assets/projects/stockwise.svg" alt="Animated inventory and forecasting illustration" />
 
 Retail forecasting and inventory intelligence with evidence-led AI explanations.
 
@@ -45,7 +47,7 @@ Retail forecasting and inventory intelligence with evidence-led AI explanations.
 
 ### 🚀 03 · LaunchPad AI
 
-<img align="right" width="100" height="80" src="assets/projects/launchpad.svg" alt="Animated multi-agent workflow illustration" />
+<img align="right" width="136" height="108" src="assets/projects/launchpad.svg" alt="Animated multi-agent workflow illustration" />
 
 Multi-agent startup research, software architecture, and revenue forecasting.
 
@@ -60,7 +62,7 @@ Multi-agent startup research, software architecture, and revenue forecasting.
 
 ### 👁️ 04 · Multimodal Surveillance
 
-<img align="right" width="100" height="80" src="assets/projects/surveillance.svg" alt="Animated camera and vision illustration" />
+<img align="right" width="136" height="108" src="assets/projects/surveillance.svg" alt="Animated camera and vision illustration" />
 
 Local visual and audio event detection for security monitoring and alerts.
 
@@ -75,7 +77,7 @@ Local visual and audio event detection for security monitoring and alerts.
 
 ### 📚 05 · arXiv Research Copilot
 
-<img align="right" width="100" height="80" src="assets/projects/arxiv.svg" alt="Animated research paper illustration" />
+<img align="right" width="136" height="108" src="assets/projects/arxiv.svg" alt="Animated research paper illustration" />
 
 Research assistant for arXiv discovery, PDF processing, and grounded question answering.
 
@@ -90,7 +92,7 @@ Research assistant for arXiv discovery, PDF processing, and grounded question an
 
 ### ⚡ 06 · EV Charging Analytics
 
-<img align="right" width="100" height="80" src="assets/projects/ev.svg" alt="Animated EV charging and analytics illustration" />
+<img align="right" width="136" height="108" src="assets/projects/ev.svg" alt="Animated EV charging and analytics illustration" />
 
 Demand forecasting and station segmentation for EV charging analytics.
 
