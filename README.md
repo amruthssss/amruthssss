@@ -4,6 +4,8 @@
 
 [Portfolio](https://amruthssharmaportfolio.netlify.app/) · [LinkedIn](https://linkedin.com/in/amruthssss) · [Email](mailto:amruths604@gmail.com) · [GitHub](https://github.com/amruthssss)
 
+<p><img src="assets/focus.svg" width="100%" height="38" alt="Generative AI · RAG · Multi-agent systems · Forecasting · Computer vision" /></p>
+
 Computer Science graduate based in Bengaluru, building practical AI/ML systems across Generative AI, forecasting, computer vision, and edge audio.
 
 <p><img src="assets/accent.svg" width="100%" height="8" alt="" /></p>
@@ -12,7 +14,7 @@ Computer Science graduate based in Bengaluru, building practical AI/ML systems a
 
 ## 🚀 Featured Projects
 
-### 01 · Orbit AI Platform
+### 🧠 01 · Orbit AI Platform
 
 A full-stack Gemini platform for grounded answers and AI-assisted workflows.
 
@@ -25,7 +27,7 @@ A full-stack Gemini platform for grounded answers and AI-assisted workflows.
 
 ---
 
-### 02 · StockWise (Stock_AI)
+### 📦 02 · StockWise (Stock_AI)
 
 Retail forecasting and inventory intelligence with evidence-led AI explanations.
 
@@ -38,7 +40,7 @@ Retail forecasting and inventory intelligence with evidence-led AI explanations.
 
 ---
 
-### 03 · LaunchPad AI
+### 🚀 03 · LaunchPad AI
 
 Multi-agent startup research, software architecture, and revenue forecasting.
 
@@ -51,7 +53,7 @@ Multi-agent startup research, software architecture, and revenue forecasting.
 
 ---
 
-### 04 · Multimodal Surveillance
+### 👁️ 04 · Multimodal Surveillance
 
 Local visual and audio event detection for security monitoring and alerts.
 
@@ -64,7 +66,7 @@ Local visual and audio event detection for security monitoring and alerts.
 
 ---
 
-### 05 · arXiv Research Copilot
+### 📚 05 · arXiv Research Copilot
 
 Research assistant for arXiv discovery, PDF processing, and grounded question answering.
 
@@ -77,7 +79,7 @@ Research assistant for arXiv discovery, PDF processing, and grounded question an
 
 ---
 
-### 06 · EV Charging Analytics
+### ⚡ 06 · EV Charging Analytics
 
 Demand forecasting and station segmentation for EV charging analytics.
 
@@ -88,17 +90,17 @@ Demand forecasting and station segmentation for EV charging analytics.
 **Stack:** Python · Streamlit · Prophet · Scikit-learn · K-Means · PCA · Plotly<br/>
 [View on GitHub ↗](https://github.com/amruthssss/ev_charging_analysis)
 
-**More projects:** [Spoken Keyword Spotting](https://github.com/amruthssss/keySpotting/tree/master/Spoken-Keyword-Spotting) — CNN-SVM audio classification across 10 keyword classes; INT8 quantization reduced model size by 75% and latency by 40%, with a 0.98 F1-score.
+**🎙️ More projects:** [Spoken Keyword Spotting](https://github.com/amruthssss/keySpotting/tree/master/Spoken-Keyword-Spotting) — CNN-SVM audio classification across 10 keyword classes; INT8 quantization reduced model size by 75% and latency by 40%, with a 0.98 F1-score.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming:** Python · SQL · C<br/>
-**AI/ML:** Machine Learning · Deep Learning · NLP · Computer Vision · Transformers · Scikit-learn · XGBoost · Prophet · OpenCV<br/>
-**Generative AI:** LLMs · RAG · LangChain · AI Agents · Multi-Agent Systems · Embeddings · Vector Search · Reranking<br/>
-**Backend & Data:** FastAPI · Flask · PostgreSQL · MySQL · MongoDB · SQLite · Redis · ChromaDB<br/>
-**Tools & Cloud:** Git · GitHub · CI/CD · REST APIs · GCP · Firebase · n8n · Vercel
+**🐍 Programming:** Python · SQL · C<br/>
+**🤖 AI/ML:** Machine Learning · Deep Learning · NLP · Computer Vision · Transformers · Scikit-learn · XGBoost · Prophet · OpenCV<br/>
+**✨ Generative AI:** LLMs · RAG · LangChain · AI Agents · Multi-Agent Systems · Embeddings · Vector Search · Reranking<br/>
+**🧩 Backend & Data:** FastAPI · Flask · PostgreSQL · MySQL · MongoDB · SQLite · Redis · ChromaDB<br/>
+**☁️ Tools & Cloud:** Git · GitHub · CI/CD · REST APIs · GCP · Firebase · n8n · Vercel
 
 ---
 
