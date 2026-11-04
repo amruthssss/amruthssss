@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="262" viewBox="0 0 490 262">
-<defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080b18"/><stop offset="1" stop-color="#120d2b"/></linearGradient>
-<linearGradient id="tt" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
-<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#22d3ee" stroke-opacity=".05"/></pattern><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="url(#bg)"/>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="url(#grid)"/>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="none" stroke="url(#bd)" stroke-opacity=".6" stroke-width="1.5"/>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="none" stroke="#ffffff" stroke-width="2.5" pathLength="1000" stroke-dasharray="80 920" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="1000;0" dur="6s" repeatCount="indefinite"/></rect>
-<text x="28" y="40" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" fill="#7c3aed" font-weight="700" style="fill:#a78bfa">04 / PROJECT</text>
-<circle cx="460" cy="36" r="4" fill="#34d399"><animate attributeName="r" values="3;5.5;3" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></circle>
-<text x="28" y="72" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="url(#tt)">Multimodal Surveillance</text>
-<text x="28" y="96" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee" letter-spacing="1">VISION  ·  AUDIO  ·  REAL-TIME ALERTS</text>
-<text x="28" y="128" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">Detects fire, smoke, accidents, explosions and gunshots</text><text x="28" y="149" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">from camera streams and audio, fully local. Temporal</text><text x="28" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">confirmation, dedup, email/SMS alerts and a 90%+</text><text x="28" y="191" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">precision gate before external alerts.</text><rect x="28" y="218" width="48" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="52" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">YOLO</text><rect x="84" y="218" width="61" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="114" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">YAMNet</text><rect x="153" y="218" width="68" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="187" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">PyTorch</text><rect x="229" y="218" width="61" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="260" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">OpenCV</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Multimodal Surveillance</title>
+  <desc id="desc">Local visual and audio event detection with temporal confirmation and alert controls.</desc>
+  <rect x="2" y="2" width="996" height="516" rx="24" fill="#f3fbfc" stroke="#8dd3df" stroke-width="3" />
+  <rect x="2" y="2" width="12" height="516" rx="6" fill="#0e8795" />
+  <text x="42" y="58" fill="#087f8c" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5">04  /  COMPUTER VISION</text>
+  <text x="42" y="112" fill="#102a43" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Multimodal Surveillance</text>
+  <text x="42" y="153" fill="#36566b" font-family="Arial, Helvetica, sans-serif" font-size="22">Local visual and audio detection for security monitoring and alerts.</text>
+  <circle cx="48" cy="215" r="5" fill="#0e8795" /><text x="68" y="223" fill="#183b50" font-family="Arial, Helvetica, sans-serif" font-size="21">Detects fire, smoke, accidents, explosions, and gunshots from streams.</text>
+  <circle cx="48" cy="270" r="5" fill="#0e8795" /><text x="68" y="278" fill="#183b50" font-family="Arial, Helvetica, sans-serif" font-size="21">Uses 2-of-3 temporal confirmation and 2-minute deduplication.</text>
+  <circle cx="48" cy="325" r="5" fill="#0e8795" /><text x="68" y="333" fill="#183b50" font-family="Arial, Helvetica, sans-serif" font-size="21">Requires 20+ samples and a 90%+ precision gate before external alerts.</text>
+  <line x1="42" y1="378" x2="958" y2="378" stroke="#d5e9ed" stroke-width="2" />
+  <text x="42" y="420" fill="#087f8c" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">STACK</text>
+  <text x="42" y="456" fill="#36566b" font-family="Arial, Helvetica, sans-serif" font-size="18">Python · YOLO26 · YAMNet (ONNX) · CNN-LSTM · PyTorch · OpenCV</text>
+  <text x="42" y="490" fill="#607d8b" font-family="Arial, Helvetica, sans-serif" font-size="16">Flask · Node.js · React · MongoDB · Twilio · Nodemailer</text>
 </svg>

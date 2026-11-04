@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="262" viewBox="0 0 490 262">
-<defs><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080b18"/><stop offset="1" stop-color="#120d2b"/></linearGradient>
-<linearGradient id="tt" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
-<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#22d3ee" stroke-opacity=".05"/></pattern><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="url(#bg)"/>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="url(#grid)"/>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="none" stroke="url(#bd)" stroke-opacity=".6" stroke-width="1.5"/>
-<rect x="6" y="6" width="478" height="250" rx="16" fill="none" stroke="#ffffff" stroke-width="2.5" pathLength="1000" stroke-dasharray="80 920" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="1000;0" dur="6s" repeatCount="indefinite"/></rect>
-<text x="28" y="40" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="12" fill="#7c3aed" font-weight="700" style="fill:#a78bfa">01 / PROJECT</text>
-<circle cx="460" cy="36" r="4" fill="#34d399"><animate attributeName="r" values="3;5.5;3" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></circle>
-<text x="28" y="72" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="url(#tt)">Orbit AI Platform</text>
-<text x="28" y="96" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee" letter-spacing="1">RAG  ·  AI AGENTS  ·  LLM EVALUATION</text>
-<text x="28" y="128" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">Full-stack AI platform with Gemini chat, RAG, agents,</text><text x="28" y="149" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">tool calling and LLM evaluation. Embeddings, vector</text><text x="28" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">retrieval and reranking produce cited answers, with</text><text x="28" y="191" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#cbd5e1">Tavily web research on top.</text><rect x="28" y="218" width="68" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="62" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">FastAPI</text><rect x="104" y="218" width="54" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="132" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">React</text><rect x="167" y="218" width="89" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="211" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">PostgreSQL</text><rect x="264" y="218" width="54" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".45"/><text x="291" y="234" text-anchor="middle" font-family="'Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="11.5" fill="#22d3ee">Redis</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">Orbit AI Platform</title>
+  <desc id="desc">A full-stack Gemini platform with RAG, agents, tool calling, evaluation, and cited document answers.</desc>
+  <rect x="2" y="2" width="996" height="516" rx="24" fill="#f3fbfc" stroke="#8dd3df" stroke-width="3" />
+  <rect x="2" y="2" width="12" height="516" rx="6" fill="#0e8795" />
+  <text x="48" y="60" fill="#087f8c" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">01  /  FEATURED PROJECT</text>
+  <text x="48" y="116" fill="#102a43" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Orbit AI Platform</text>
+  <text x="48" y="158" fill="#36566b" font-family="Arial, Helvetica, sans-serif" font-size="24">A full-stack Gemini platform for grounded answers and AI-assisted workflows.</text>
+  <circle cx="54" cy="220" r="5" fill="#0e8795" />
+  <text x="76" y="228" fill="#183b50" font-family="Arial, Helvetica, sans-serif" font-size="22">Combines Gemini chat, RAG, AI agents, tool calling, and LLM evaluation.</text>
+  <circle cx="54" cy="275" r="5" fill="#0e8795" />
+  <text x="76" y="283" fill="#183b50" font-family="Arial, Helvetica, sans-serif" font-size="22">Retrieves and reranks document passages to produce cited responses.</text>
+  <circle cx="54" cy="330" r="5" fill="#0e8795" />
+  <text x="76" y="338" fill="#183b50" font-family="Arial, Helvetica, sans-serif" font-size="22">Adds Tavily web research and deploys FastAPI + React services.</text>
+  <line x1="48" y1="382" x2="950" y2="382" stroke="#d5e9ed" stroke-width="2" />
+  <text x="48" y="424" fill="#087f8c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.5">STACK</text>
+  <text x="48" y="460" fill="#36566b" font-family="Arial, Helvetica, sans-serif" font-size="19">Python · FastAPI · React · TypeScript · PostgreSQL · Redis · Gemini · RAG · Tavily</text>
+  <text x="48" y="494" fill="#607d8b" font-family="Arial, Helvetica, sans-serif" font-size="16">Document ingestion · embeddings · vector search · reranking · tool calling · evaluation</text>
 </svg>
