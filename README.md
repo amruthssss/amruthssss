@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hero.svg" width="100%" alt="Amruth S Sharma — AI/ML Engineer" /></p>
+ <p align="center"><img src="assets/hero.svg" width="100%" alt="Amruth S Sharma — AI/ML Engineer" /></p>
 
 <p align="center">
   <a href="https://amruthssharmaportfolio.netlify.app/">Portfolio</a> ·
@@ -121,7 +121,19 @@ Demand forecasting and station segmentation for EV charging analytics.
 
 ## 💼 Experience
 
-### Android Developer Intern · MindMatrix.io
+### 🤖 AI Engineer Intern · [OriginShape](https://www.linkedin.com/company/originshape/)
+
+**November 2026 – Present**
+
+- Working as an AI Engineer Intern, contributing to AI engineering initiatives.
+- Developing practical technical skills through hands-on engineering work.
+- Exploring and building solutions using modern AI technologies.
+
+**Company:** [OriginShape on LinkedIn](https://www.linkedin.com/company/originshape/)
+
+---
+
+### 📱 Android Developer Intern · MindMatrix.io
 
 **Bengaluru · Feb 2026 – May 2026**
 
