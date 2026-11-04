@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="8" viewBox="0 0 1000 8" role="img" aria-label="Cyan accent line">
-  <line x1="0" y1="4" x2="1000" y2="4" stroke="#0e7490" stroke-width="2" opacity="0.35">
-    <animate attributeName="opacity" values="0.25;0.7;0.25" dur="12s" repeatCount="indefinite" />
-  </line>
-</svg>

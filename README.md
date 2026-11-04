@@ -1,8 +1,11 @@
-# Hey, I'm Amruth S Sharma 👋
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Amruth S Sharma — AI/ML Engineer" /></p>
 
-### AI/ML Engineer · Generative AI · RAG · Multi-Agent Systems
-
-[Portfolio](https://amruthssharmaportfolio.netlify.app/) · [LinkedIn](https://linkedin.com/in/amruthssss) · [Email](mailto:amruths604@gmail.com) · [GitHub](https://github.com/amruthssss)
+<p align="center">
+  <a href="https://amruthssharmaportfolio.netlify.app/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/amruthssss">LinkedIn</a> ·
+  <a href="mailto:amruths604@gmail.com">Email</a> ·
+  <a href="https://github.com/amruthssss">GitHub</a>
+</p>
 
 <p><img src="assets/focus.svg" width="100%" height="38" alt="Generative AI · RAG · Multi-agent systems · Forecasting · Computer vision" /></p>
 
