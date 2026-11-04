@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="80" viewBox="0 0 100 80" role="img" aria-labelledby="title desc">
+  <title id="title">EV Charging Analytics project illustration</title>
+  <desc id="desc">A charging post with a lightning mark and small forecast chart.</desc>
+  <g fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="11" y="12" width="34" height="54" rx="6" />
+    <rect x="19" y="20" width="18" height="12" rx="2" />
+    <path d="M45 26h8v18a8 8 0 0016 0V31" />
+    <path d="M61 31v-7h8v7M18 57h20" />
+    <path d="M57 62l9-9 8 4 12-17M57 69h31" />
+  </g>
+  <path d="M28 37l-6 9h6l-3 7 9-11h-6l3-5z" fill="#22d3ee" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.55;1;0.55;0.55" keyTimes="0;0.714286;0.75;0.785714;1" dur="28s" repeatCount="indefinite" />
+  </path>
+</svg>

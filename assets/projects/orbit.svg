@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="80" viewBox="0 0 100 80" role="img" aria-labelledby="title desc">
+  <title id="title">Orbit AI project illustration</title>
+  <desc id="desc">A document is embedded and connected to retrieved passages.</desc>
+  <g fill="none" stroke="#0e7490" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="9" y="13" width="31" height="42" rx="5" />
+    <path d="M17 24h15M17 32h12M17 40h8" />
+    <path d="M40 34h15M55 34l10-12M55 34l10 12" />
+    <circle cx="73" cy="19" r="8" />
+    <circle cx="73" cy="49" r="8" />
+    <path d="M68 64h19M72 70h11" />
+  </g>
+  <circle cx="73" cy="34" r="5" fill="#22d3ee" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.55;1;0.55;0.55" keyTimes="0;0.02;0.035714;0.071429;1" dur="28s" repeatCount="indefinite" />
+  </circle>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="80" viewBox="0 0 100 80" role="img" aria-labelledby="title desc">
+  <title id="title">Spoken Keyword Spotting project illustration</title>
+  <desc id="desc">An audio waveform for edge keyword classification.</desc>
+  <g fill="none" stroke="#0e7490" stroke-width="4" stroke-linecap="round">
+    <path d="M12 40h8M24 29v22M36 20v40M48 31v18M60 14v52M72 27v26M84 34v12" />
+  </g>
+  <path d="M60 14v52" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.55;1;0.55;0.55" keyTimes="0;0.857143;0.892857;0.928571;1" dur="28s" repeatCount="indefinite" />
+  </path>
+</svg>

@@ -7,17 +7,15 @@
   <a href="https://github.com/amruthssss">GitHub</a>
 </p>
 
-<p><img src="assets/focus.svg" width="100%" height="38" alt="Generative AI · RAG · Multi-agent systems · Forecasting · Computer vision" /></p>
-
 Computer Science graduate based in Bengaluru, building practical AI/ML systems across Generative AI, forecasting, computer vision, and edge audio.
-
-<p><img src="assets/accent.svg" width="100%" height="8" alt="" /></p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 01 · Orbit AI Platform
+
+<img align="right" width="100" height="80" src="assets/projects/orbit.svg" alt="Animated document retrieval illustration" />
 
 A full-stack Gemini platform for grounded answers and AI-assisted workflows.
 
@@ -32,6 +30,8 @@ A full-stack Gemini platform for grounded answers and AI-assisted workflows.
 
 ### 📦 02 · StockWise (Stock_AI)
 
+<img align="right" width="100" height="80" src="assets/projects/stockwise.svg" alt="Animated inventory and forecasting illustration" />
+
 Retail forecasting and inventory intelligence with evidence-led AI explanations.
 
 - Combines forecasting, inventory-risk analysis, and scenario optimization.
@@ -44,6 +44,8 @@ Retail forecasting and inventory intelligence with evidence-led AI explanations.
 ---
 
 ### 🚀 03 · LaunchPad AI
+
+<img align="right" width="100" height="80" src="assets/projects/launchpad.svg" alt="Animated multi-agent workflow illustration" />
 
 Multi-agent startup research, software architecture, and revenue forecasting.
 
@@ -58,6 +60,8 @@ Multi-agent startup research, software architecture, and revenue forecasting.
 
 ### 👁️ 04 · Multimodal Surveillance
 
+<img align="right" width="100" height="80" src="assets/projects/surveillance.svg" alt="Animated camera and vision illustration" />
+
 Local visual and audio event detection for security monitoring and alerts.
 
 - Detects fire, smoke, accidents, explosions, and gunshots from streams.
@@ -70,6 +74,8 @@ Local visual and audio event detection for security monitoring and alerts.
 ---
 
 ### 📚 05 · arXiv Research Copilot
+
+<img align="right" width="100" height="80" src="assets/projects/arxiv.svg" alt="Animated research paper illustration" />
 
 Research assistant for arXiv discovery, PDF processing, and grounded question answering.
 
@@ -84,6 +90,8 @@ Research assistant for arXiv discovery, PDF processing, and grounded question an
 
 ### ⚡ 06 · EV Charging Analytics
 
+<img align="right" width="100" height="80" src="assets/projects/ev.svg" alt="Animated EV charging and analytics illustration" />
+
 Demand forecasting and station segmentation for EV charging analytics.
 
 - Forecasts and clusters data across 457 charging stations.
@@ -92,6 +100,8 @@ Demand forecasting and station segmentation for EV charging analytics.
 
 **Stack:** Python · Streamlit · Prophet · Scikit-learn · K-Means · PCA · Plotly<br/>
 [View on GitHub ↗](https://github.com/amruthssss/ev_charging_analysis)
+
+<img align="right" width="100" height="80" src="assets/projects/spoken.svg" alt="Animated audio waveform illustration" />
 
 **🎙️ More projects:** [Spoken Keyword Spotting](https://github.com/amruthssss/keySpotting/tree/master/Spoken-Keyword-Spotting) — CNN-SVM audio classification across 10 keyword classes; INT8 quantization reduced model size by 75% and latency by 40%, with a 0.98 F1-score.
 
